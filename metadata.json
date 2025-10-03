@@ -1,0 +1,5 @@
+{
+  "name": "FinAicer - SMS Classifier",
+  "description": "A web application to demonstrate and test a machine learning model that classifies financial SMS messages into structured transaction data using AI.",
+  "requestFramePermissions": []
+}
